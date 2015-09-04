@@ -1,0 +1,7 @@
+[genologics]
+BASEURI=http://eu-west-demo.claritylims.com:8080
+USERNAME=plundmark
+PASSWORD=plundmark
+[logging]
+MAIN_LOG=/home/per/genologics.log
+
